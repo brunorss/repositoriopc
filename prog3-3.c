@@ -5,7 +5,7 @@ main()
     int cont  ;
     cont=0;
     menornumero=0    ;
-    maiornumero=0;
+    maiornumero=0    ;
     soma=0;
     media=0;
     printf("Digite um numero\n");
